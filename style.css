@@ -10,3 +10,27 @@
     height: 200px;
     width: 900px;
 }
+.round1{
+color: blue;
+}
+.round2{
+    color: blueviolet;
+}
+.round3{
+    color: rgb(14, 14, 14);
+}
+.round4{
+    color: rgb(243, 11, 11);
+}
+.round5{
+    color: rgb(207, 127, 28);
+}
+.round6{
+    color: rgb(132, 17, 199);
+}
+.round7{
+    color: rgb(41, 32, 20);
+}
+.round8{
+    color: rgb(46, 27, 4);
+}
